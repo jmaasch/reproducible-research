@@ -10,7 +10,7 @@ In my experience, rarely do data inconsistencies or poor documentation stem from
 
 **Why is improving research reproducibility important to you?**
 
-As a proponent of open source software, open access publishing, and open science more generally, I believe that scientists have a moral obligation to disseminate their knowledge as widely and freely as possible. Further, I believe that we have a moral obligation to ensure that our findings can be vetted through replication studies and other important checks. Promoting open and reproducible research principles is essential not only to preserving integrity within the scientific community, but also to building scientific literacy, trust, and respect within society at large.
+As a proponent of open source software, open access publishing, and open science more generally, I believe that scientists have a moral obligation to share their knowledge as widely and freely as possible. Further, I believe that we have a moral obligation to ensure that our findings can be vetted through replication studies and other important checks. Promoting open and reproducible research principles is essential not only to preserving integrity within the scientific community, but also to building scientific literacy, trust, and respect within society at large.
 
 **Anything else you’d like the Open Knowledge Foundation community to know about you?**
 
