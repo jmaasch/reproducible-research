@@ -8,4 +8,4 @@ I applied to be a Reproducible Research Fellow to build space into my research p
 
 ### Openness and reproducibility are good for science and for society.
 
-As a scientist, I consider it a moral obligation to share my knowledge as widely and freely as possible and to ensure that my findings can be vetted through replication studies and other important checks. Promoting open and reproducible research principles is essential not only to preserving integrity within the scientific community, but also to building scientific literacy, trust, and respect within society at large.
+As a scientist, I consider it an obligation to share my knowledge as widely and freely as possible and to ensure that my findings can be vetted through replication studies and other important checks. Promoting open and reproducible research principles is essential not only to preserving integrity within the scientific community, but also to building scientific literacy, trust, and respect within society at large.
