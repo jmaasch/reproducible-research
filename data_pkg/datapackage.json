@@ -1,0 +1,77 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "format": "default",
+            "title": "Index",
+            "description": "Row index",
+            "name": "Index"
+          },
+          {
+            "name": "Family",
+            "type": "string",
+            "format": "default",
+            "description": "Peptidase family",
+            "title": "Family"
+          },
+          {
+            "name": "Subfamily",
+            "type": "string",
+            "format": "default",
+            "description": "Peptidase subfamily",
+            "title": "Subfamily"
+          },
+          {
+            "name": "Type enzyme",
+            "type": "string",
+            "format": "default",
+            "description": "Peptidase enzyme type",
+            "title": "Type"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "format": "default",
+            "description": "Peptidase group",
+            "title": "Group"
+          }
+        ]
+      },
+      "path": "https://raw.githubusercontent.com/jmaasch/reproducible-research/master/data_pkg/merops_peptidase_families.csv"
+    }
+  ],
+  "keywords": [
+    "peptide",
+    "peptidase",
+    "protease",
+    "proteinase",
+    "proteolytic cleavage",
+    "cleavage site",
+    "protein",
+    "MEROPS",
+    "bioinformatics",
+    "protein informatics"
+  ],
+  "title": "MEROPS Peptidase Families Data Package",
+  "homepage": "https://github.com/jmaasch/reproducible-research/blob/master/data_pkg/merops_peptidase_families.csv",
+  "contributors": [
+    {
+      "title": "JRMA Maasch",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "description": "All human (Homo sapiens) peptidase families available in the MEROPS Peptidase Database (https://www.ebi.ac.uk/merops/index.shtml). Data were scraped using a custom Python script in July 2020."
+}
