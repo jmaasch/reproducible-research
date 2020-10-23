@@ -12,25 +12,21 @@ This data model relies on the 5 following fields corresponding to the columns of
 
 ### `Family`
 
-- title: 
 - description: Peptidase family
 - type: string
 
 ### `Subfamily`
 
-- title: 
 - description: Peptidase subfamily
 - type: string
 
 ### `Type enzyme`
 
-- title: 
 - description: Peptidase enzyme type
 - type: string
 
 ### `Group`
 
-- title: 
 - description: Peptidase group
 - type: string
 
