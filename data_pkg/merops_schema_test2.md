@@ -4,17 +4,7 @@ All human (Homo sapiens) peptidase families available in the MEROPS Peptidase Da
 
 - licenses: CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - missing values represented by: `[""]`
-- keywords:
-  - peptide
-  - peptidase
-  - protease
-  - proteinase
-  - proteolytic cleavage
-  - cleavage site
-  - protein
-  - MEROPS
-  - bioinformatics
-  - protein informatics
+- keywords: {peptide, protein, peptidase, protease, proteinase, proteolytic cleavage, cleavage site, MEROPS}
 
 ## Data model
 
