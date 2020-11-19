@@ -5,6 +5,10 @@
 # the MEROPS Peptidase Database in June 2020.
 # (https://www.ebi.ac.uk/merops/index.shtml).
 #
+# More information on programmatically creating data packages
+# can be found here:
+# https://frictionlessdata.io/tooling/data-package-tools/#tools
+#
 # Jacqueline R. M. A. Maasch | November 2020
 
 # Importations.
