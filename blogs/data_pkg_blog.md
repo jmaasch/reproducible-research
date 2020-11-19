@@ -22,7 +22,11 @@ I also added licensing, authorship, keyword, title, and package description meta
 
 <img width="774" alt="pkg_blog5" src="https://user-images.githubusercontent.com/50045763/99606547-f4ff1f80-29d7-11eb-9cb6-03bfad928053.png">
 
-In the end, `merops_pkg.descriptor` looks like this:
+Finally, I committed my changes and saved the data package as a zip file. This zip file contains both the original CSV file and the metadata as a JSON data package file, neatly bundled together.
+
+<img width="771" alt="pkg_blog6" src="https://user-images.githubusercontent.com/50045763/99606549-f4ff1f80-29d7-11eb-88df-7e88f171b064.png">
+
+In the end, my JSON file looks like this:
 
 ```
 {
@@ -96,9 +100,5 @@ In the end, `merops_pkg.descriptor` looks like this:
                     Database in June 2020 (https://www.ebi.ac.uk/merops/index.shtml)."
 }
 ```
-
-Finally, I committed my changes and saved the data package as a zip file. This zip file contains both the original CSV file and the metadata as a JSON data package file, neatly bundled together.
-
-<img width="771" alt="pkg_blog6" src="https://user-images.githubusercontent.com/50045763/99606549-f4ff1f80-29d7-11eb-88df-7e88f171b064.png">
 
 This semi-automated process keeps the jungle of data that I obtain, analyze, and produce as orderly and well-documented as possible. Not only does that keep *me* organized, but it also makes sharing my data frictionless, responsible, and easy.
