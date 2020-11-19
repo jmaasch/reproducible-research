@@ -1,6 +1,6 @@
 # Constructing a basic data package in Python
 
-As a machine learning researcher, I am constantly scraping, merging, exploring, modeling, and generating data. Because I do most of my data management and analysis in Python, I find it convenient to package my data in Python as well. The screenshots below are a walk-through of basic data package construction in Python. In this case, I was programming in a Jupyter notebook and handling a small dataset that I had scraped from a protein informatics database.
+As a machine learning researcher, I am constantly scraping, merging, reshaping, exploring, modeling, and generating data. Because I do most of my data management and analysis in Python, I find it convenient to package my data in Python as well. The screenshots below are a walk-through of basic data package construction in Python. In this case, I was programming in a Jupyter notebook and handling a small dataset that I had scraped from a protein informatics database.
 
 The dataset that I am working with describes human peptidase families, as scraped from the [MEROPS Peptidase Database](https://www.ebi.ac.uk/merops/index.shtml) in June 2020.
 
