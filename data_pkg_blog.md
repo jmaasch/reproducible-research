@@ -1,6 +1,6 @@
 # Constructing a basic data package in Python
 
-Because I do most of my data management and analysis in Python, I find it convenient to package my data in Python as well. The screenshots below are a walk-through of basic data package construction in Python. In this case, I was programming in a Jupyter notebook and handling data that I had scraped from a protein informatics database.
+As a machine learning researcher, I am constantly scraping, merging, exploring, modeling, and generating data. Because I do most of my data management and analysis in Python, I find it convenient to package my data in Python as well. The screenshots below are a walk-through of basic data package construction in Python. In this case, I was programming in a Jupyter notebook and handling a small dataset that I had scraped from a protein informatics database.
 
 The dataset that I am working with describes human peptidase families, as scraped from the [MEROPS Peptidase Database](https://www.ebi.ac.uk/merops/index.shtml) in June 2020.
 
@@ -14,7 +14,7 @@ Second, I explored the data structures nested within the `merops_pkg.descriptor`
 
 <img width="764" alt="pkg_blog3" src="https://user-images.githubusercontent.com/50045763/99606541-f4668900-29d7-11eb-85c1-540dc333b82e.png">
 
-Next, I manually updated the metadata to provide descriptions of the columns in my CSV file.
+Next, I manually updated the metadata to provide more ample descriptions of the columns in my CSV file. Headings are simply not enough! I want to ensure that even a stranger could easily discern the meaning of each column.
 
 <img width="762" alt="pkg_blog4" src="https://user-images.githubusercontent.com/50045763/99606544-f4668900-29d7-11eb-94c5-8e57be303208.png">
 
@@ -73,3 +73,5 @@ In the end, `merops_pkg.descriptor` looks like this:
 Finally, I committed my changes and saved the data package as a zip file. This zip file contains both the original CSV file and the metadata as a JSON data package file, neatly bundled together.
 
 <img width="771" alt="pkg_blog6" src="https://user-images.githubusercontent.com/50045763/99606549-f4ff1f80-29d7-11eb-88df-7e88f171b064.png">
+
+This semi-automated process keeps the jungle of data that I obtain, analyze, and produce as orderly and well-documented as possible. Not only does that keep *me* organized, but it also makes sharing my data frictionless, responsible, and easy.
