@@ -101,4 +101,4 @@ In the end, my JSON file looks like this:
 }
 ```
 
-This semi-automated process keeps the jungle of data that I obtain, analyze, and produce as orderly and well-documented as possible. Not only does that keep *me* organized, but it also makes sharing my data frictionless, responsible, and easy.
+This semi-automated process keeps the jungle of data that I obtain, analyze, and produce as orderly and well-documented as possible. Not only does that keep me organized, but it also makes sharing my data frictionless, responsible, and easy.
