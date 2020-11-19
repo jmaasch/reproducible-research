@@ -7,6 +7,10 @@
 #
 # Jacqueline R. M. A. Maasch | November 2020
 
+# Importations.
+from datapackage import Package
+import pandas as pd
+
 # Read data file.
 df = pd.read_csv("merops_peptidase_families.csv")
 
