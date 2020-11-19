@@ -2,7 +2,7 @@
 
 As a machine learning researcher, I am constantly scraping, merging, reshaping, exploring, modeling, and generating data. Because I do most of my data management and analysis in Python, I find it convenient to package my data in Python as well. The screenshots below are a walk-through of basic data package construction in Python. In this case, I was programming in a Jupyter notebook and handling a small dataset that I had scraped from a protein informatics database. The original Python script can be accessed [on GitHub](https://github.com/jmaasch/reproducible-research/blob/master/data_pkg/data_pkg_example.py).
 
-The dataset that I am working with describes human peptidase families, as scraped from the [MEROPS Peptidase Database](https://www.ebi.ac.uk/merops/index.shtml) in June 2020.
+The [dataset](https://github.com/jmaasch/reproducible-research/blob/master/data_pkg/merops_peptidase_families.csv) that I am working with describes human peptidase families, as scraped from the [MEROPS Peptidase Database](https://www.ebi.ac.uk/merops/index.shtml) in June 2020.
 
 <img width="761" alt="pkg_blog1" src="https://user-images.githubusercontent.com/50045763/99606537-f3355c00-29d7-11eb-8191-5691c893f129.png">
 
