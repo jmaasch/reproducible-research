@@ -18,7 +18,7 @@ This simple [Python script](https://github.com/jmaasch/reproducible-research/blo
 
 First, we can import the `frictionless` package. We will also use `pandas` for some light dataframe manipulation. Starting with our command line syntax, we can get a sense of what we are working with by printing out the first several lines of our CSV file. 
 
-If you look closely, you will see that the first column contains no header: the first element of row one is empty, as conveyed by the lonely "," preceeded by... nothing at all. In fact, this column is quite useless: it is an artifact of forgetting to pass the argument `index = False` to the `pandas` function `to_csv()` during file creation. This useless indexing column would ideally be removed entirely. Let's see how this oversight plays out during file validation...
+If you look closely, you will see that the first column contains no header: the first element of the first row is empty, as conveyed by the lonely "," preceeded by... nothing at all. In fact, this column is quite useless: it is an artifact of forgetting to pass the argument `index = False` to the `pandas` function `to_csv()` during file creation. This useless indexing column would ideally be removed entirely. Let's see how this oversight plays out during file validation...
 
 <img width="1030" alt="demo1" src="https://user-images.githubusercontent.com/50045763/105934836-ed36a980-601e-11eb-9fd3-14316b13646e.png">
 
