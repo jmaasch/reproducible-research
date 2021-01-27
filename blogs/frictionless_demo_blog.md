@@ -18,7 +18,7 @@ This simple [Python script](https://github.com/jmaasch/reproducible-research/blo
 
 First, we will import the `frictionless` package. We will also use `pandas` for some light dataframe manipulation. Starting with our command line syntax, we can get a sense of what we are working with by printing out the first several lines of our CSV file. 
 
-If you look closely, you will see that the first column contains no header: the first element of the first row is empty, as conveyed by the lonely "," preceeded by... nothing at all. In fact, this column is quite useless: it is an artifact of forgetting to pass the argument `index = False` to the `pandas` function `to_csv()` during file creation. My bad! This useless indexing column would ideally be removed entirely. Let's see how this oversight plays out during file validation...
+If you look closely, you will see that the first column contains no header: the first element of the first row is empty, as conveyed by the lonely `,` preceeded by... nothing at all. In fact, this column is quite useless: it is an artifact of forgetting to pass the argument `index = False` to the `pandas` function `to_csv()` during file creation. My bad! This useless indexing column would ideally be removed entirely. Let's see how this oversight plays out during file validation...
 
 <img width="1030" alt="demo1" src="https://user-images.githubusercontent.com/50045763/105934836-ed36a980-601e-11eb-9fd3-14316b13646e.png">
 
@@ -37,6 +37,8 @@ When we finally go to validate our data file, that missing column name that we n
 ## Python syntax
 
 Below, we walk through the Python syntax that provides equivalent functionality. As you'll see, this syntax is extremely similar to its command line equivalent, just more "pythonic." However, the outputs do look a bit different!
+
+Note that the header of our headerless first column is autopopulated by `pandas` as `Unnamed: 0`. Don't be fooled: this column is still technically headerless.
 
 <img width="1030" alt="demo4" src="https://user-images.githubusercontent.com/50045763/105934846-ef990380-601e-11eb-87cf-fd13ef3a743c.png">
 
