@@ -16,7 +16,7 @@ This simple [Python script](https://github.com/jmaasch/reproducible-research/blo
 
 ### View data
 
-First, we can import the `frictionless` package. We will also use `pandas` for some light dataframe manipulation, as a convenience. Starting with our command line syntax, we get a sense of what we are working with by printing out the first several lines of our CSV file. 
+First, we can import the `frictionless` package. We will also use `pandas` for some light dataframe manipulation. Starting with our command line syntax, we can get a sense of what we are working with by printing out the first several lines of our CSV file. 
 
 If you look closely, you will see that the first column contains no header: the first element of row one is empty, as conveyed by the lonely "," preceeded by... nothing at all. In fact, this column is quite useless: it is an artifact of forgetting to pass the argument `index = False` to the `pandas` function `to_csv()` during file creation. This useless indexing column would ideally be removed entirely. Let's see how this oversight plays out during file validation...
 
@@ -28,9 +28,7 @@ Next, we can describe our data file.
 
 <img width="1031" alt="demo2" src="https://user-images.githubusercontent.com/50045763/105934840-edcf4000-601e-11eb-9e94-614c2dbf7168.png">
 
-### Extract and validate data
-
-Next, we can extract the valid data from our file. 
+### Validate data
 
 When we finally go to validate our data file, that missing column name that we noted above will come back to haunt us... indeed, this is the cause of our failed validation. To make this CSV file valid, we would need to either 1) remove the offending column, which contains no pertinent data anyways, or 2) give the offending column a proper name.
 
@@ -38,7 +36,7 @@ When we finally go to validate our data file, that missing column name that we n
 
 ## Python syntax
 
-Below, we walk through the Python syntax that provides functionality that is equivalent to the command line syntax described above. As you'll see, this syntax is extremely similar, just more "pythonic." However, the outputs do look a bit different!
+Below, we walk through the Python syntax that provides equivalent functionality. As you'll see, this syntax is extremely similar to its command line equivalent, just more "pythonic." However, the outputs do look a bit different!
 
 <img width="1030" alt="demo4" src="https://user-images.githubusercontent.com/50045763/105934846-ef990380-601e-11eb-87cf-fd13ef3a743c.png">
 
@@ -46,6 +44,10 @@ Clearly, our data is invalid!
 
 <img width="1030" alt="demo5" src="https://user-images.githubusercontent.com/50045763/105935027-3dae0700-601f-11eb-8ad2-6a295272c054.png">
 
-Note that the message label provides a useful elaboration on just what causes our CSV file to be deemed invalid.
+Note that the `message` and `description` values provide a useful elaboration on the reason our CSV file is deemed invalid.
 
 <img width="1028" alt="demo6" src="https://user-images.githubusercontent.com/50045763/105934849-f0319a00-601e-11eb-9b57-8b562b1132ec.png">
+
+## Bottom line
+
+The `frictionless` framework is a convenient way to wrap your data validation needs directly into your existing Python data analysis pipeline. Choose whichever syntax works for you – Python or command line.
