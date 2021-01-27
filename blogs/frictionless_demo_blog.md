@@ -12,19 +12,27 @@ This simple [Python script](https://github.com/jmaasch/reproducible-research/blo
 
 <img width="523" alt="script" src="https://user-images.githubusercontent.com/50045763/105934032-69c88880-601d-11eb-8707-d9a5d1f39e0f.png">
 
-## View data
+## Command line syntax
+
+### View data
 
 First, we can import the `frictionless` package. We will also use `pandas` for some light dataframe manipulation, as a convenience. Starting with our command line syntax, we get a sense of what we are working with by printing out the first several lines of our CSV file. 
 
 <img width="1030" alt="demo1" src="https://user-images.githubusercontent.com/50045763/105934836-ed36a980-601e-11eb-9fd3-14316b13646e.png">
 
+### Describe data
+
 Next...
 
 <img width="1031" alt="demo2" src="https://user-images.githubusercontent.com/50045763/105934840-edcf4000-601e-11eb-9e94-614c2dbf7168.png">
 
+### Extract data
+
 Next...
 
 <img width="1032" alt="demo3" src="https://user-images.githubusercontent.com/50045763/105934841-ee67d680-601e-11eb-9dc3-4b1c06ed00d1.png">
+
+### Validate data
 
 Next...
 
