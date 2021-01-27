@@ -24,13 +24,13 @@ If you look closely, you will see that the first column contains no header: the 
 
 ### Describe data
 
-Next, we can describe our data file.
+Next, we can describe our data file. This is a convenient way to view inferred header names and column data types, for example.
 
 <img width="1031" alt="demo2" src="https://user-images.githubusercontent.com/50045763/105934840-edcf4000-601e-11eb-9e94-614c2dbf7168.png">
 
 ### Validate data
 
-When we finally go to validate our data file, that missing column name that we noted above will come back to haunt us... indeed, this is the cause of our failed validation. To make this CSV file valid, we would need to either 1) remove the offending column, which contains no pertinent data anyways, or 2) give the offending column a proper name.
+When we finally go to validate our data file, that missing column name that we noted above will come back to haunt us... indeed, this is the cause of our failed validation. To make this CSV file valid, we would need to either 1) remove the offending column, which contains no pertinent data anyways, or 2) give the offending column a proper header.
 
 <img width="1032" alt="demo3" src="https://user-images.githubusercontent.com/50045763/105934841-ee67d680-601e-11eb-9dc3-4b1c06ed00d1.png">
 
