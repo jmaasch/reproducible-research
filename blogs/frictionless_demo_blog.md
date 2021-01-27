@@ -14,19 +14,9 @@ This simple [Python script](https://github.com/jmaasch/reproducible-research/blo
 
 ## View data
 
-<img width="1034" alt="Screen Shot 2021-01-26 at 9 22 27 PM" src="https://user-images.githubusercontent.com/50045763/105933817-15250d80-601d-11eb-8367-21d130b87514.png">
-
-
-<img width="1035" alt="Screen Shot 2021-01-26 at 9 22 56 PM" src="https://user-images.githubusercontent.com/50045763/105933826-15bda400-601d-11eb-8f9b-f21411bdd7f2.png">
-
-
-<img width="1036" alt="Screen Shot 2021-01-26 at 9 23 08 PM" src="https://user-images.githubusercontent.com/50045763/105933828-16563a80-601d-11eb-95e8-edde0e28bbdf.png">
-
-
-<img width="1032" alt="Screen Shot 2021-01-26 at 9 23 20 PM" src="https://user-images.githubusercontent.com/50045763/105933836-181ffe00-601d-11eb-845c-1af54694d557.png">
-
-
-<img width="1033" alt="Screen Shot 2021-01-26 at 9 23 44 PM" src="https://user-images.githubusercontent.com/50045763/105933845-19512b00-601d-11eb-9d28-bfed9a6b4643.png">
-
-
-<img width="1030" alt="Screen Shot 2021-01-26 at 9 24 14 PM" src="https://user-images.githubusercontent.com/50045763/105933851-1a825800-601d-11eb-918b-169e64526d6a.png">
+<img width="1030" alt="demo1" src="https://user-images.githubusercontent.com/50045763/105934836-ed36a980-601e-11eb-9fd3-14316b13646e.png">
+<img width="1031" alt="demo2" src="https://user-images.githubusercontent.com/50045763/105934840-edcf4000-601e-11eb-9e94-614c2dbf7168.png">
+<img width="1032" alt="demo3" src="https://user-images.githubusercontent.com/50045763/105934841-ee67d680-601e-11eb-9dc3-4b1c06ed00d1.png">
+<img width="1030" alt="demo4" src="https://user-images.githubusercontent.com/50045763/105934846-ef990380-601e-11eb-87cf-fd13ef3a743c.png">
+<img width="1030" alt="demo5" src="https://user-images.githubusercontent.com/50045763/105934847-f0319a00-601e-11eb-93f3-7f4134cca8c0.png">
+<img width="1028" alt="demo6" src="https://user-images.githubusercontent.com/50045763/105934849-f0319a00-601e-11eb-9b57-8b562b1132ec.png">
