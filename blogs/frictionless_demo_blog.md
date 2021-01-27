@@ -18,11 +18,19 @@ First, we can import the `frictionless` package. We will also use `pandas` for s
 
 <img width="1030" alt="demo1" src="https://user-images.githubusercontent.com/50045763/105934836-ed36a980-601e-11eb-9fd3-14316b13646e.png">
 
+Next...
+
 <img width="1031" alt="demo2" src="https://user-images.githubusercontent.com/50045763/105934840-edcf4000-601e-11eb-9e94-614c2dbf7168.png">
+
+Next...
 
 <img width="1032" alt="demo3" src="https://user-images.githubusercontent.com/50045763/105934841-ee67d680-601e-11eb-9dc3-4b1c06ed00d1.png">
 
+Next...
+
 <img width="1030" alt="demo4" src="https://user-images.githubusercontent.com/50045763/105934846-ef990380-601e-11eb-87cf-fd13ef3a743c.png">
+
+Next...
 
 <img width="1030" alt="demo5" src="https://user-images.githubusercontent.com/50045763/105935027-3dae0700-601f-11eb-8ad2-6a295272c054.png">
 
