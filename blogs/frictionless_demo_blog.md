@@ -1,6 +1,6 @@
 # Walking through the `frictionless` framework
 
-While the [GoodTables](http://goodtables.io/dashboard) web server is a convenient tool for automated data validation, the [`frictionless`](https://frictionlessdata.io/tooling/python/#purpose) framework allows for validation right within your Python or Bash scripts. We'll demonstrate some key `frictionless` functionality, both in Python and command line syntax. As an illustrative point, we will use a CSV file that contains an invalid element – a remnant of careless file creation.
+While the [GoodTables](http://goodtables.io/dashboard) web server is a convenient tool for automated data validation, the [`frictionless`](https://frictionlessdata.io/tooling/python/#purpose) framework allows for validation right within your Python scripts. We'll demonstrate some key `frictionless` functionality, both in Python and command line syntax. As an illustrative point, we will use a CSV file that contains an invalid element – a remnant of careless file creation.
 
 View the original [Jupyter notebook](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.ipynb), [Python script](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.py), and [dataset](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/merops_peptidase_families.csv) on GitHub.
 
