@@ -1,4 +1,4 @@
-# Walking through the Frictionless Framework
+# Walking through the `frictionless` framework
 
 While the [GoodTables](http://goodtables.io/dashboard) web server is a convenient tool for automated data validation, the [`frictionless`](https://frictionlessdata.io/tooling/python/#purpose) framework allows for validation right within your Python or Bash scripts. We'll demonstrate some key `frictionless` functionality, both in Python and command line syntax. As an illustrative point, we will use a CSV file that contains an invalid element – a remnant of careless file creation.
 
