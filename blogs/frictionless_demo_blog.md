@@ -4,10 +4,15 @@ While the [GoodTables](http://goodtables.io/dashboard) web server is a convenien
 
 View the original [Jupyter notebook](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.ipynb), [Python script](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.py), and [dataset](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/merops_peptidase_families.csv) on GitHub.
 
+**Note:** This demo uses `frictionless` version 3.48.0, `pandas` version 1.0.1, and Python 3.8.3.
 
+## Overview
+
+This simple [Python script](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.py) shows the command line syntax and equivalent Python syntax that we will go over in this demo.
 
 <img width="523" alt="script" src="https://user-images.githubusercontent.com/50045763/105934032-69c88880-601d-11eb-8707-d9a5d1f39e0f.png">
 
+## View data
 
 <img width="1034" alt="Screen Shot 2021-01-26 at 9 22 27 PM" src="https://user-images.githubusercontent.com/50045763/105933817-15250d80-601d-11eb-8367-21d130b87514.png">
 
