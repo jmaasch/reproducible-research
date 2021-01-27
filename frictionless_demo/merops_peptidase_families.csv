@@ -1,0 +1,346 @@
+,Family,Subfamily,Type enzyme,Group
+0,A1,A1A,pepsin A (Homo sapiens),Aspartic (A) Peptidase
+1,A1,A1B,nepenthesin (Nepenthes gracilis),Aspartic (A) Peptidase
+2,A2,A2A,HIV-1 retropepsin (human immunodeficiency virus 1),Aspartic (A) Peptidase
+3,A2,A2B,Ty3 transposon peptidase (Saccharomyces cerevisiae),Aspartic (A) Peptidase
+4,A2,A2C,Gypsy transposon peptidase (Drosophila melanogaster),Aspartic (A) Peptidase
+5,A2,A2D,Osvaldo retrotransposon peptidase (Drosophila buzzatii),Aspartic (A) Peptidase
+6,A3,A3A,cauliflower mosaic virus-type peptidase (cauliflower mosaic virus),Aspartic (A) Peptidase
+7,A3,A3B,bacilliform virus peptidase (rice tungro bacilliform virus),Aspartic (A) Peptidase
+8,A5,,thermopsin (Sulfolobus acidocaldarius),Aspartic (A) Peptidase
+9,A8,,signal peptidase II (Escherichia coli),Aspartic (A) Peptidase
+10,A9,,spumapepsin (human spumaretrovirus),Aspartic (A) Peptidase
+11,A11,A11A,Copia transposon peptidase (Drosophila melanogaster),Aspartic (A) Peptidase
+12,A11,A11B,Ty1 transposon peptidase (Saccharomyces cerevisiae),Aspartic (A) Peptidase
+13,A22,A22A,presenilin 1 (Homo sapiens),Aspartic (A) Peptidase
+14,A22,A22B,impas 1 peptidase (Homo sapiens),Aspartic (A) Peptidase
+15,A24,A24A,type 4 prepilin peptidase 1 (Pseudomonas aeruginosa),Aspartic (A) Peptidase
+16,A24,A24B,FlaK peptidase (Methanococcus maripaludis),Aspartic (A) Peptidase
+17,A25,,gpr peptidase (Bacillus megaterium),Aspartic (A) Peptidase
+18,A26,,omptin (Escherichia coli),Aspartic (A) Peptidase
+19,A28,A28A,DNA-damage inducible protein 1 (Saccharomyces cerevisiae),Aspartic (A) Peptidase
+20,A28,A28B,skin SASPase (Mus musculus),Aspartic (A) Peptidase
+21,A31,,HybD peptidase (Escherichia coli),Aspartic (A) Peptidase
+22,A32,,PerP peptidase  (Caulobacter crescentus),Aspartic (A) Peptidase
+23,A36,,sporulation factor SpoIIGA (Bacillus subtilis),Aspartic (A) Peptidase
+24,A37,,sso1175 g.p.  (Sulfolobus solfataricus),Aspartic (A) Peptidase
+25,C1,C1A,papain (Carica papaya),Cysteine (C) Peptidase
+26,C1,C1B,bleomycin hydrolase  (Saccharomyces cerevisiae),Cysteine (C) Peptidase
+27,C2,C2A,calpain-2 (Homo sapiens),Cysteine (C) Peptidase
+28,C3,C3A,poliovirus-type picornain 3C (human poliovirus 1),Cysteine (C) Peptidase
+29,C3,C3B,enterovirus picornain 2A (human poliovirus 1),Cysteine (C) Peptidase
+30,C3,C3C,foot-and-mouth disease virus picornain 3C (foot-and-mouth disease virus),Cysteine (C) Peptidase
+31,C3,C3D,cowpea mosaic comovirus-type picornain 3C (cowpea mosaic virus),Cysteine (C) Peptidase
+32,C3,C3E,hepatitis A virus-type picornain 3C (hepatitis A virus),Cysteine (C) Peptidase
+33,C3,C3F,parechovirus picornain 3C (human parechovirus 1),Cysteine (C) Peptidase
+34,C3,C3G,rice tungro spherical virus-type peptidase (rice tungro spherical virus),Cysteine (C) Peptidase
+35,C3,C3H,grapevine fanleaf-type nepovirus picornain 3C (grapevine fanleaf virus),Cysteine (C) Peptidase
+36,C4,,nuclear-inclusion-a peptidase  (plum pox virus),Cysteine (C) Peptidase
+37,C5,,adenain (human adenovirus type 2),Cysteine (C) Peptidase
+38,C6,,potato virus Y-type helper component peptidase (potato virus Y),Cysteine (C) Peptidase
+39,C7,,chestnut blight fungus virus p29 peptidase (Cryphonectria hypovirus),Cysteine (C) Peptidase
+40,C8,,chestnut blight fungus virus p48 peptidase (Cryphonectria hypovirus 1),Cysteine (C) Peptidase
+41,C9,,sindbis virus-type nsP2 peptidase (Sindbis virus),Cysteine (C) Peptidase
+42,C10,,streptopain (Streptococcus pyogenes),Cysteine (C) Peptidase
+43,C11,C11A,clostripain (Clostridium histolyticum),Cysteine (C) Peptidase
+44,C11,C11B,PNT1 peptidase  (Trypanosoma brucei),Cysteine (C) Peptidase
+45,C12,,ubiquitinyl hydrolase-L1 (Homo sapiens),Cysteine (C) Peptidase
+46,C13,,legumain  (Canavalia ensiformis),Cysteine (C) Peptidase
+47,C14,C14A,caspase-1 (Rattus norvegicus),Cysteine (C) Peptidase
+48,C14,C14B,metacaspase Yca1  (Saccharomyces cerevisiae),Cysteine (C) Peptidase
+49,C15,,pyroglutamyl-peptidase I  (Bacillus amyloliquefaciens),Cysteine (C) Peptidase
+50,C16,C16A,murine hepatitis coronavirus papain-like peptidase 1 (murine hepatitis virus),Cysteine (C) Peptidase
+51,C16,C16B,mouse hepatitis coronavirus papain-like peptidase 2 (murine hepatitis virus),Cysteine (C) Peptidase
+52,C18,,hepatitis C virus peptidase 2 (hepatitis C virus),Cysteine (C) Peptidase
+53,C19,,ubiquitin-specific peptidase 14 (Homo sapiens),Cysteine (C) Peptidase
+54,C21,,tymovirus peptidase (turnip yellow mosaic virus),Cysteine (C) Peptidase
+55,C23,,carlavirus peptidase (apple stem pitting virus),Cysteine (C) Peptidase
+56,C24,,rabbit hemorrhagic disease virus 3C-like peptidase (rabbit hemorrhagic disease virus),Cysteine (C) Peptidase
+57,C25,,gingipain RgpA (Porphyromonas gingivalis),Cysteine (C) Peptidase
+58,C26,,gamma-glutamyl hydrolase (Rattus norvegicus),Cysteine (C) Peptidase
+59,C27,,rubella virus peptidase (Rubella virus),Cysteine (C) Peptidase
+60,C28,,foot-and-mouth disease virus L-peptidase (foot-and-mouth disease virus),Cysteine (C) Peptidase
+61,C30,,porcine transmissible gastroenteritis virus-type main peptidase (transmissible gastroenteritis virus),Cysteine (C) Peptidase
+62,C31,,porcine reproductive and respiratory syndrome arterivirus-type cysteine peptidase alpha (lactate-dehydrogenase-elevating virus),Cysteine (C) Peptidase
+63,C32,,equine arteritis virus-type cysteine peptidase (porcine reproductive and respiratory syndrome virus),Cysteine (C) Peptidase
+64,C33,,equine arteritis virus Nsp2-type cysteine peptidase (equine arteritis virus),Cysteine (C) Peptidase
+65,C36,,beet necrotic yellow vein furovirus-type papain-like peptidase (beet necrotic yellow vein virus),Cysteine (C) Peptidase
+66,C37,,calicivirin (Southampton virus),Cysteine (C) Peptidase
+67,C39,,bacteriocin-processing peptidase (Pediococcus acidilactici),Cysteine (C) Peptidase
+68,C40,,dipeptidyl-peptidase VI  (Lysinibacillus sphaericus),Cysteine (C) Peptidase
+69,C42,,beet yellows virus-type papain-like peptidase (beet yellows virus),Cysteine (C) Peptidase
+70,C44,,amidophosphoribosyltransferase precursor (Homo sapiens),Cysteine (C) Peptidase
+71,C45,,acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase precursor (Penicillium chrysogenum),Cysteine (C) Peptidase
+72,C46,,hedgehog protein (Drosophila melanogaster),Cysteine (C) Peptidase
+73,C47,,staphopain A (Staphylococcus aureus),Cysteine (C) Peptidase
+74,C48,,Ulp1 peptidase (Saccharomyces cerevisiae),Cysteine (C) Peptidase
+75,C49,,Strawberry mottle virus 3C-like peptidase (strawberry mottle virus),Cysteine (C) Peptidase
+76,C50,,separase  (Saccharomyces cerevisiae),Cysteine (C) Peptidase
+77,C51,,D-alanyl-glycyl peptidase  (Staphylococcus aureus),Cysteine (C) Peptidase
+78,C53,,pestivirus Npro peptidase (classical swine fever virus),Cysteine (C) Peptidase
+79,C54,,autophagin-1 (Homo sapiens),Cysteine (C) Peptidase
+80,C55,,YopJ protein (Yersinia pseudotuberculosis),Cysteine (C) Peptidase
+81,C56,,PfpI peptidase (Pyrococcus furiosus),Cysteine (C) Peptidase
+82,C57,,vaccinia virus I7L processing peptidase (Vaccinia virus),Cysteine (C) Peptidase
+83,C58,C58A,YopT peptidase (Yersinia pestis),Cysteine (C) Peptidase
+84,C58,C58B,HopN1 peptidase  (Pseudomonas syringae),Cysteine (C) Peptidase
+85,C59,,penicillin V acylase precursor (Lysinibacillus sphaericus),Cysteine (C) Peptidase
+86,C60,C60A,sortase A  (Staphylococcus aureus),Cysteine (C) Peptidase
+87,C60,C60B,sortase B (Staphylococcus aureus),Cysteine (C) Peptidase
+88,C62,,gill-associated virus 3C-like peptidase (gill-associated virus),Cysteine (C) Peptidase
+89,C63,,African swine fever virus processing peptidase (African swine fever virus),Cysteine (C) Peptidase
+90,C64,,Cezanne peptidase (Homo sapiens),Cysteine (C) Peptidase
+91,C65,,otubain-1 (Homo sapiens),Cysteine (C) Peptidase
+92,C66,,IdeS peptidase (Streptococcus pyogenes),Cysteine (C) Peptidase
+93,C67,,CylD peptidase (Homo sapiens),Cysteine (C) Peptidase
+94,C69,,dipeptidase A (Lactobacillus helveticus),Cysteine (C) Peptidase
+95,C70,,AvrRpt2 peptidase (Pseudomonas syringae),Cysteine (C) Peptidase
+96,C71,,pseudomurein endoisopeptidase Pei (Methanobacterium phage psiM2),Cysteine (C) Peptidase
+97,C74,,pestivirus NS2 peptidase (bovine viral diarrhea virus 1),Cysteine (C) Peptidase
+98,C75,,AgrB peptidase (Staphylococcus aureus),Cysteine (C) Peptidase
+99,C76,,viral tegument protein deubiquitinylating peptidase (human herpesvirus 1),Cysteine (C) Peptidase
+100,C78,C78A,UfSP1 peptidase (Mus musculus),Cysteine (C) Peptidase
+101,C78,C78B,ZUP1 g.p.  (Homo sapiens),Cysteine (C) Peptidase
+102,C79,,ElaD peptidase  (Escherichia coli),Cysteine (C) Peptidase
+103,C80,,RTX self-cleaving toxin (Vibrio cholerae),Cysteine (C) Peptidase
+104,C82,C82A,"L,D-transpeptidase  (Enterococcus faecium)",Cysteine (C) Peptidase
+105,C82,C82B,ykuD transpeptidase (Bacillus subtilis),Cysteine (C) Peptidase
+106,C83,,gamma-glutamylcysteine dipeptidyltranspeptidase (Nostoc sp. PCC 7120),Cysteine (C) Peptidase
+107,C84,,prtH peptidase  (Tannerella forsythia),Cysteine (C) Peptidase
+108,C85,C85A,OTUD5 peptidase  (Homo sapiens),Cysteine (C) Peptidase
+109,C85,C85B,OTU1 peptidase  (Saccharomyces cerevisiae),Cysteine (C) Peptidase
+110,C86,,ataxin-3 (Homo sapiens),Cysteine (C) Peptidase
+111,C87,,nairovirus deubiquitinylating peptidase (Crimean-Congo hemorrhagic fever virus),Cysteine (C) Peptidase
+112,C89,,acid ceramidase precursor (Homo sapiens),Cysteine (C) Peptidase
+113,C93,,LapG peptidase  (Pseudomonas fluorescens),Cysteine (C) Peptidase
+114,C95,,lysosomal 66.3 kDa protein  (Mus musculus),Cysteine (C) Peptidase
+115,C96,,McjB peptidase (Escherichia coli),Cysteine (C) Peptidase
+116,C97,,desumoylating isopeptidase 1 (Mus musculus),Cysteine (C) Peptidase
+117,C98,,USPL1 peptidase (Homo sapiens),Cysteine (C) Peptidase
+118,C99,,iflavirus processing peptidase (Ectropis obliqua picorna-like virus),Cysteine (C) Peptidase
+119,C100,,agglutinin peptidase  (Marasmius oreades),Cysteine (C) Peptidase
+120,C101,,OTULIN peptidase (Homo sapiens),Cysteine (C) Peptidase
+121,C102,,GtgE peptidase (Salmonella enterica),Cysteine (C) Peptidase
+122,C104,,PlyC phage lysin (Streptococcus phage C1),Cysteine (C) Peptidase
+123,C105,,papain-like peptidase 1 alpha  (simian hemorrhagic fever virus),Cysteine (C) Peptidase
+124,C106,,archaeosortase A  (Haloferax volcanii),Cysteine (C) Peptidase
+125,C107,,alphamesonivirus 3C-like peptidase (Cavally virus),Cysteine (C) Peptidase
+126,C108,,Prp peptidase  (Staphylococcus aureus),Cysteine (C) Peptidase
+127,C110,,kyphoscoliosis peptidase (Mus musculus),Cysteine (C) Peptidase
+128,C111,,coagulation factor XIIIa (Homo sapiens),Cysteine (C) Peptidase
+129,C113,,IgdE peptidase  (Streptococcus suis),Cysteine (C) Peptidase
+130,C115,,MINDY-1 protein (Homo sapiens),Cysteine (C) Peptidase
+131,C116,,dermonecrotic toxin  (Pasteurella multocida),Cysteine (C) Peptidase
+132,C117,,SpvD g.p.  (Salmonella typhimurium),Cysteine (C) Peptidase
+133,C118,,EspL g.p.  (Escherichia coli),Cysteine (C) Peptidase
+134,C119,,LotA g.p.  (Legionella pneumophila),Cysteine (C) Peptidase
+135,C120,,mavirus processing peptidase (Maverick-related virus strain Spezl),Cysteine (C) Peptidase
+136,C121,,MINDY-4 peptidase (Homo sapiens),Cysteine (C) Peptidase
+137,G1,,scytalidoglutamic peptidase (Scytalidium lignicolum),Glutamic (G) Peptidase
+138,G2,,pre-neck appendage protein  (bacteriophage phi-29),Glutamic (G) Peptidase
+139,G3,,strawberry mottle virus glutamic peptidase (strawberry mottle virus),Glutamic (G) Peptidase
+140,M1,,aminopeptidase N (Homo sapiens),Metallo (M) Peptidase
+141,M2,,angiotensin-converting enzyme peptidase unit 1 (Homo sapiens),Metallo (M) Peptidase
+142,M3,M3A,thimet oligopeptidase (Rattus norvegicus),Metallo (M) Peptidase
+143,M3,M3B,oligopeptidase F (Lactococcus lactis),Metallo (M) Peptidase
+144,M3,M3C,Pz-peptidase A (Geobacillus sp. MO-1),Metallo (M) Peptidase
+145,M4,,thermolysin (Bacillus thermoproteolyticus),Metallo (M) Peptidase
+146,M5,,mycolysin (Streptomyces cacaoi),Metallo (M) Peptidase
+147,M6,,immune inhibitor A peptidase  (Bacillus thuringiensis),Metallo (M) Peptidase
+148,M7,,snapalysin (Streptomyces lividans),Metallo (M) Peptidase
+149,M8,,leishmanolysin (Leishmania major),Metallo (M) Peptidase
+150,M9,M9A,collagenase V  (Vibrio alginolyticus),Metallo (M) Peptidase
+151,M9,M9B,bacterial collagenase H (Clostridium histolyticum),Metallo (M) Peptidase
+152,M10,M10A,matrix metallopeptidase-1 (Homo sapiens),Metallo (M) Peptidase
+153,M10,M10B,serralysin (Serratia marcescens),Metallo (M) Peptidase
+154,M10,M10C,fragilysin (Bacteroides fragilis),Metallo (M) Peptidase
+155,M11,,gametolysin (Chlamydomonas reinhardtii),Metallo (M) Peptidase
+156,M12,M12A,astacin (Astacus astacus),Metallo (M) Peptidase
+157,M12,M12B,adamalysin (Crotalus adamanteus),Metallo (M) Peptidase
+158,M13,,neprilysin (Homo sapiens),Metallo (M) Peptidase
+159,M14,M14A,carboxypeptidase A1 (Homo sapiens),Metallo (M) Peptidase
+160,M14,M14B,carboxypeptidase E (Bos taurus),Metallo (M) Peptidase
+161,M14,M14C,gamma-D-glutamyl--meso-diaminopimelate peptidase I (Lysinibacillus sphaericus),Metallo (M) Peptidase
+162,M14,M14D,cytosolic carboxypeptidase 6 (Homo sapiens),Metallo (M) Peptidase
+163,M15,M15A,zinc D-Ala-D-Ala carboxypeptidase  (Streptomyces albus),Metallo (M) Peptidase
+164,M15,M15B,vanY D-Ala-D-Ala carboxypeptidase (Enterococcus faecium),Metallo (M) Peptidase
+165,M15,M15C,Ply118 L-Ala-D-Glu peptidase (bacteriophage A118),Metallo (M) Peptidase
+166,M15,M15D,vanX D-Ala-D-Ala dipeptidase (Enterococcus faecium),Metallo (M) Peptidase
+167,M16,M16A,pitrilysin (Escherichia coli),Metallo (M) Peptidase
+168,M16,M16B,mitochondrial processing peptidase beta-subunit (Saccharomyces cerevisiae),Metallo (M) Peptidase
+169,M16,M16C,eupitrilysin (Homo sapiens),Metallo (M) Peptidase
+170,M17,,leucine aminopeptidase 3 (Bos taurus),Metallo (M) Peptidase
+171,M18,,aminopeptidase I (Saccharomyces cerevisiae),Metallo (M) Peptidase
+172,M19,,membrane dipeptidase (Homo sapiens),Metallo (M) Peptidase
+173,M20,M20A,glutamate carboxypeptidase (Pseudomonas sp.),Metallo (M) Peptidase
+174,M20,M20B,peptidase T (Escherichia coli),Metallo (M) Peptidase
+175,M20,M20C,Xaa-His dipeptidase (Escherichia coli),Metallo (M) Peptidase
+176,M20,M20D,carboxypeptidase Ss1 (Sulfolobus solfataricus),Metallo (M) Peptidase
+177,M20,M20F,carnosine dipeptidase II (Mus musculus),Metallo (M) Peptidase
+178,M23,M23A,beta-lytic metallopeptidase (Achromobacter lyticus),Metallo (M) Peptidase
+179,M23,M23B,lysostaphin (Staphylococcus simulans),Metallo (M) Peptidase
+180,M24,M24A,methionyl aminopeptidase 1  (Escherichia coli),Metallo (M) Peptidase
+181,M24,M24B,aminopeptidase P  (Escherichia coli),Metallo (M) Peptidase
+182,M26,,IgA1-specific metallopeptidase (Streptococcus sanguinis),Metallo (M) Peptidase
+183,M27,,tentoxilysin (Clostridium tetani),Metallo (M) Peptidase
+184,M28,M28A,aminopeptidase S  (Streptomyces griseus),Metallo (M) Peptidase
+185,M28,M28B,glutamate carboxypeptidase II (Homo sapiens),Metallo (M) Peptidase
+186,M28,M28C,IAP aminopeptidase (Escherichia coli),Metallo (M) Peptidase
+187,M28,M28D,aminopeptidase ES-62  (Acanthocheilonema viteae),Metallo (M) Peptidase
+188,M28,M28E,aminopeptidase Ap1 (Vibrio proteolyticus),Metallo (M) Peptidase
+189,M28,M28F,YwaD peptidase (Bacillus subtilis),Metallo (M) Peptidase
+190,M29,,aminopeptidase T (Thermus aquaticus),Metallo (M) Peptidase
+191,M30,,hyicolysin (Staphylococcus hyicus),Metallo (M) Peptidase
+192,M32,,carboxypeptidase Taq (Thermus aquaticus),Metallo (M) Peptidase
+193,M34,,anthrax lethal factor (Bacillus anthracis),Metallo (M) Peptidase
+194,M35,,deuterolysin (Aspergillus flavus),Metallo (M) Peptidase
+195,M36,,fungalysin (Aspergillus fumigatus),Metallo (M) Peptidase
+196,M38,,isoaspartyl dipeptidase  (Escherichia coli),Metallo (M) Peptidase
+197,M41,,FtsH peptidase (Escherichia coli),Metallo (M) Peptidase
+198,M42,,glutamyl aminopeptidase  (Lactococcus lactis),Metallo (M) Peptidase
+199,M43,M43A,cytophagalysin (Cytophaga sp.),Metallo (M) Peptidase
+200,M43,M43B,pappalysin-1 (Homo sapiens),Metallo (M) Peptidase
+201,M44,,pox virus metallopeptidase (Vaccinia virus),Metallo (M) Peptidase
+202,M48,M48A,Ste24 peptidase (Saccharomyces cerevisiae),Metallo (M) Peptidase
+203,M48,M48B,HtpX peptidase (Escherichia coli),Metallo (M) Peptidase
+204,M48,M48C,Oma1 peptidase (Saccharomyces cerevisiae),Metallo (M) Peptidase
+205,M49,,dipeptidyl-peptidase III (Rattus norvegicus),Metallo (M) Peptidase
+206,M50,M50A,site 2 peptidase (Homo sapiens),Metallo (M) Peptidase
+207,M50,M50B,sporulation factor SpoIVFB (Bacillus subtilis),Metallo (M) Peptidase
+208,M54,,archaelysin (Methanocaldococcus jannaschii),Metallo (M) Peptidase
+209,M55,,D-aminopeptidase DppA (Bacillus subtilis),Metallo (M) Peptidase
+210,M56,,BlaR1 peptidase (Staphylococcus aureus),Metallo (M) Peptidase
+211,M57,,prtB g.p.  (Myxococcus xanthus),Metallo (M) Peptidase
+212,M60,,enhancin (Lymantria dispar nucleopolyhedrovirus),Metallo (M) Peptidase
+213,M61,,glycyl aminopeptidase (Sphingomonas capsulata),Metallo (M) Peptidase
+214,M64,,IgA peptidase  (Clostridium ramosum),Metallo (M) Peptidase
+215,M66,,StcE peptidase (Escherichia coli),Metallo (M) Peptidase
+216,M67,M67A,RPN11 peptidase (Saccharomyces cerevisiae),Metallo (M) Peptidase
+217,M67,M67B,JAMM-like protein  (Archaeoglobus fulgidus),Metallo (M) Peptidase
+218,M67,M67C,STAMBP isopeptidase (Homo sapiens),Metallo (M) Peptidase
+219,M72,,peptidyl-Asp metallopeptidase (Pseudomonas aeruginosa),Metallo (M) Peptidase
+220,M73,,camelysin (Bacillus cereus),Metallo (M) Peptidase
+221,M74,,murein endopeptidase (Escherichia coli),Metallo (M) Peptidase
+222,M75,,imelysin (Pseudomonas aeruginosa),Metallo (M) Peptidase
+223,M76,,Atp23 peptidase  (Homo sapiens),Metallo (M) Peptidase
+224,M77,,tryptophanyl aminopeptidase 7-DMATS-type peptidase (Aspergillus fumigatus),Metallo (M) Peptidase
+225,M78,,ImmA peptidase (Bacillus subtilis),Metallo (M) Peptidase
+226,M79,,RCE1 peptidase  (Saccharomyces cerevisiae),Metallo (M) Peptidase
+227,M80,,Wss1 peptidase  (Saccharomyces cerevisiae),Metallo (M) Peptidase
+228,M81,,microcystinase MlrC (Sphingomonas sp. ACM-3962),Metallo (M) Peptidase
+229,M82,,PrsW peptidase (Bacillus subtilis),Metallo (M) Peptidase
+230,M84,,MpriBi peptidase  (Bacillus intermedius),Metallo (M) Peptidase
+231,M85,,NleC peptidase  (Escherichia coli),Metallo (M) Peptidase
+232,M86,,PghP gamma-polyglutamate hydrolase  (Bacillus phage phiNIT1),Metallo (M) Peptidase
+233,M87,,chloride channel accessory protein 1 (Homo sapiens),Metallo (M) Peptidase
+234,M88,,IMPa peptidase  (Pseudomonas aeruginosa),Metallo (M) Peptidase
+235,M90,,MtfA peptidase (Escherichia coli),Metallo (M) Peptidase
+236,M91,,NleD peptidase  (Escherichia coli),Metallo (M) Peptidase
+237,M93,,BACCAC_01431 g.p.  and similar (Bacteroides caccae),Metallo (M) Peptidase
+238,M95,,selecase  (Methanocaldococcus jannaschii),Metallo (M) Peptidase
+239,M96,,Tiki1 peptidase (Homo sapiens),Metallo (M) Peptidase
+240,M97,,EcxAB peptidase (Escherichia coli),Metallo (M) Peptidase
+241,M98,,YghJ g.p.  (Escherichia coli),Metallo (M) Peptidase
+242,M99,,Csd4 peptidase  (Helicobacter pylori),Metallo (M) Peptidase
+243,M100,,spartan peptidase (Homo sapiens),Metallo (M) Peptidase
+244,M101,,flagellinolysin (Clostridium haemolyticum),Metallo (M) Peptidase
+245,M102,,DA1 peptidase  (Arabidopsis thaliana),Metallo (M) Peptidase
+246,M103,,TldD peptidase  (Escherichia coli),Metallo (M) Peptidase
+247,N1,,nodavirus peptide lyase (flock house virus),Asparagine (N) Peptide Lyase
+248,N2,,tetravirus coat protein (Nudaurelia capensis omega virus),Asparagine (N) Peptide Lyase
+249,N4,,Tsh-associated self-cleaving domain  and similar (Escherichia coli),Asparagine (N) Peptide Lyase
+250,N5,,picobirnavirus self-cleaving protein (Human picobirnavirus),Asparagine (N) Peptide Lyase
+251,N6,,YscU protein (Yersinia pseudotuberculosis),Asparagine (N) Peptide Lyase
+252,N7,,reovirus type 1 coat protein (Mammalian orthoreovirus 1),Asparagine (N) Peptide Lyase
+253,N8,,poliovirus capsid VP0-type self-cleaving protein (human poliovirus 1),Asparagine (N) Peptide Lyase
+254,N9,,intein-containing V-type proton ATPase catalytic subunit A (Saccharomyces cerevisiae),Asparagine (N) Peptide Lyase
+255,N10,,intein-containing replicative DNA helicase precursor (Synechocystis sp. PCC 6803),Asparagine (N) Peptide Lyase
+256,N11,,intein-containing chloroplast ATP-dependent peptide lyase (Chlamydomonas eugametos),Asparagine (N) Peptide Lyase
+257,P1,,DmpA aminopeptidase (Ochrobactrum anthropi),Mixed (P) Peptidases
+258,P2,P2A,EGF-like module containing mucin-like hormone receptor-like 2 (Homo sapiens),Mixed (P) Peptidases
+259,P2,P2B,polycystin-1 (Homo sapiens),Mixed (P) Peptidases
+260,S1,S1A,chymotrypsin A  (Bos taurus),Serine (S) Peptidase
+261,S1,S1B,glutamyl endopeptidase I (Staphylococcus aureus),Serine (S) Peptidase
+262,S1,S1C,DegP peptidase (Escherichia coli),Serine (S) Peptidase
+263,S1,S1D,lysyl endopeptidase  (Achromobacter lyticus),Serine (S) Peptidase
+264,S1,S1E,streptogrisin A (Streptomyces griseus),Serine (S) Peptidase
+265,S1,S1F,astrovirus serine peptidase (Mamastrovirus 1),Serine (S) Peptidase
+266,S3,,togavirin (Sindbis virus),Serine (S) Peptidase
+267,S6,,IgA1-specific serine peptidase  (Neisseria gonorrhoeae),Serine (S) Peptidase
+268,S7,,flavivirin (yellow fever virus),Serine (S) Peptidase
+269,S8,S8A,subtilisin Carlsberg (Bacillus licheniformis),Serine (S) Peptidase
+270,S8,S8B,kexin (Saccharomyces cerevisiae),Serine (S) Peptidase
+271,S9,S9A,prolyl oligopeptidase (Sus scrofa),Serine (S) Peptidase
+272,S9,S9B,dipeptidyl-peptidase IV  (Homo sapiens),Serine (S) Peptidase
+273,S9,S9C,acylaminoacyl-peptidase (Homo sapiens),Serine (S) Peptidase
+274,S9,S9D,glutamyl endopeptidase C (Arabidopsis thaliana),Serine (S) Peptidase
+275,S10,,carboxypeptidase Y (Saccharomyces cerevisiae),Serine (S) Peptidase
+276,S11,,D-Ala-D-Ala carboxypeptidase A (Geobacillus stearothermophilus),Serine (S) Peptidase
+277,S12,,D-Ala-D-Ala carboxypeptidase B (Streptomyces lividans),Serine (S) Peptidase
+278,S13,,D-Ala-D-Ala peptidase C (Escherichia coli),Serine (S) Peptidase
+279,S14,,peptidase Clp  (Escherichia coli),Serine (S) Peptidase
+280,S15,,Xaa-Pro dipeptidyl-peptidase (Lactococcus lactis),Serine (S) Peptidase
+281,S16,,Lon-A peptidase (Escherichia coli),Serine (S) Peptidase
+282,S21,,cytomegalovirus assemblin (human herpesvirus 5),Serine (S) Peptidase
+283,S24,,repressor LexA (Escherichia coli),Serine (S) Peptidase
+284,S26,S26A,signal peptidase I (Escherichia coli),Serine (S) Peptidase
+285,S26,S26B,signalase  21 kDa component (Saccharomyces cerevisiae),Serine (S) Peptidase
+286,S26,S26C,TraF peptidase (Escherichia coli),Serine (S) Peptidase
+287,S28,,lysosomal Pro-Xaa carboxypeptidase (Homo sapiens),Serine (S) Peptidase
+288,S29,,hepacivirin (hepatitis C virus),Serine (S) Peptidase
+289,S30,,potyvirus P1 peptidase (plum pox virus),Serine (S) Peptidase
+290,S31,,pestivirus NS3 polyprotein peptidase (bovine viral diarrhea virus 1),Serine (S) Peptidase
+291,S32,,equine arteritis virus serine peptidase (equine arteritis virus),Serine (S) Peptidase
+292,S33,,prolyl aminopeptidase (Neisseria gonorrhoeae),Serine (S) Peptidase
+293,S37,,PS-10 peptidase (Streptomyces lividans),Serine (S) Peptidase
+294,S39,S39A,sobemovirus peptidase (cocksfoot mottle virus),Serine (S) Peptidase
+295,S39,S39B,luteovirus peptidase (potato leaf roll luteovirus),Serine (S) Peptidase
+296,S41,S41A,C-terminal processing peptidase-1 (Escherichia coli),Serine (S) Peptidase
+297,S41,S41B,tricorn core peptidase  (Thermoplasma acidophilum),Serine (S) Peptidase
+298,S45,,penicillin G acylase precursor (Escherichia coli),Serine (S) Peptidase
+299,S46,,dipeptidyl-peptidase 7  (Porphyromonas gingivalis),Serine (S) Peptidase
+300,S48,,HetR putative peptidase (Anabaena variabilis),Serine (S) Peptidase
+301,S49,S49A,signal peptide peptidase A  (Escherichia coli),Serine (S) Peptidase
+302,S49,S49B,protein C  (bacteriophage lambda),Serine (S) Peptidase
+303,S49,S49C,archaean signal peptide peptidase 1 (Pyrococcus horikoshii),Serine (S) Peptidase
+304,S50,,infectious pancreatic necrosis birnavirus Vp4 peptidase (infectious pancreatic necrosis virus),Serine (S) Peptidase
+305,S51,,dipeptidase E (Escherichia coli),Serine (S) Peptidase
+306,S53,,sedolisin (Pseudomonas sp. 101),Serine (S) Peptidase
+307,S54,,rhomboid-1  (Drosophila melanogaster),Serine (S) Peptidase
+308,S55,,SpoIVB peptidase (Bacillus subtilis),Serine (S) Peptidase
+309,S59,,nucleoporin 145 (Homo sapiens),Serine (S) Peptidase
+310,S60,,lactoferrin (Homo sapiens),Serine (S) Peptidase
+311,S62,,influenza A PA peptidase (influenza A virus),Serine (S) Peptidase
+312,S64,,Ssy5 peptidase (Saccharomyces cerevisiae),Serine (S) Peptidase
+313,S65,,picornain-like serine peptidase  (Breda virus),Serine (S) Peptidase
+314,S66,,murein tetrapeptidase LD-carboxypeptidase  (Pseudomonas aeruginosa),Serine (S) Peptidase
+315,S68,,PIDD auto-processing protein unit 1 (Homo sapiens),Serine (S) Peptidase
+316,S69,,Tellina virus 1 VP4 peptidase (Tellina virus 1),Serine (S) Peptidase
+317,S71,,MUC1 self-cleaving mucin (Homo sapiens),Serine (S) Peptidase
+318,S72,,dystroglycan (Homo sapiens),Serine (S) Peptidase
+319,S73,,gpO peptidase  (Enterobacteria phage P2),Serine (S) Peptidase
+320,S74,,Escherichia coli phage K1F endosialidase CIMCD self-cleaving protein (Enterobacteria phage K1F),Serine (S) Peptidase
+321,S75,,White bream virus serine peptidase (White bream virus),Serine (S) Peptidase
+322,S77,,prohead peptidase gp21  (Enterobacteria phage T4),Serine (S) Peptidase
+323,S78,,prohead peptidase  (Enterobacteria phage HK97),Serine (S) Peptidase
+324,S79,,CARD8 self-cleaving protein (Homo sapiens),Serine (S) Peptidase
+325,S80,,prohead peptidase gp175  (Pseudomonas phage phiKZ),Serine (S) Peptidase
+326,S81,,destabilase (Hirudo medicinalis),Serine (S) Peptidase
+327,S82,,autocrine proliferation repressor protein A  (Dictyostelium discoideum),Serine (S) Peptidase
+328,S85,,small protease  (Pseudomonas aeruginosa),Serine (S) Peptidase
+329,T1,T1A,"archaean proteasome, beta component (Thermoplasma acidophilum)",Threonine (T) Peptidase
+330,T1,T1B,HslV component of HslUV peptidase (Escherichia coli),Threonine (T) Peptidase
+331,T2,,glycosylasparaginase precursor (Homo sapiens),Threonine (T) Peptidase
+332,T3,,gamma-glutamyltransferase 1  (Escherichia coli),Threonine (T) Peptidase
+333,T5,,ornithine acetyltransferase precursor (Saccharomyces cerevisiae),Threonine (T) Peptidase
+334,T7,,CwpV  self-cleaving threonine peptidase (Peptoclostridium difficile),Threonine (T) Peptidase
+335,T8,,HopB1 g.p.  (Pseudomonas syringae),Threonine (T) Peptidase
+336,U32,,collagenase  (Porphyromonas gingivalis),Peptidase of Unknown Catalytic Type
+337,U40,,protein P5 murein endopeptidase  (bacteriophage phi-6),Peptidase of Unknown Catalytic Type
+338,U49,,Lit peptidase (Escherichia coli),Peptidase of Unknown Catalytic Type
+339,U56,,homomultimeric peptidase (Thermotoga maritima),Peptidase of Unknown Catalytic Type
+340,U57,,yabG protein  (Bacillus subtilis),Peptidase of Unknown Catalytic Type
+341,U69,,AIDA-I self-cleaving autotransporter protein  (Escherichia coli),Peptidase of Unknown Catalytic Type
+342,U72,,Dop isopeptidase (Mycobacterium tuberculosis),Peptidase of Unknown Catalytic Type
+343,U74,,neprosin (Nepenthes ventrata),Peptidase of Unknown Catalytic Type
+344,U75,,Ras/Rap1-specific peptidase (Vibrio vulnificus),Peptidase of Unknown Catalytic Type
