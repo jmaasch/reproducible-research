@@ -8,7 +8,7 @@ View the original [Jupyter notebook](https://github.com/jmaasch/reproducible-res
 
 ## Overview
 
-This simple [Python script](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.py) shows the command line syntax and equivalent Python syntax that we will go over in this demo.
+This simple [Python script](https://github.com/jmaasch/reproducible-research/blob/master/frictionless_demo/frictionless_demo.py) shows the command line syntax and equivalent Python syntax that we will review in this demo.
 
 <img width="523" alt="script" src="https://user-images.githubusercontent.com/50045763/105934032-69c88880-601d-11eb-8707-d9a5d1f39e0f.png">
 
