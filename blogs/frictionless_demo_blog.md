@@ -30,7 +30,7 @@ Next, we can describe our data file. This is a convenient way to view inferred h
 
 ### Validate data
 
-When we finally go to validate our data file, that missing column name that we noted above will come back to haunt us... indeed, this is the cause of our failed validation. To make this CSV file valid, we would need to either 1) remove the offending column, which contains no pertinent data anyways, or 2) give the offending column a proper header.
+When we finally validate our data file, that missing column name that we noted above will come back to haunt us... indeed, this is the cause of our failed validation. To make this CSV file valid, we would need either to 1) remove the offending column, which contains no pertinent data anyways, or 2) give the offending column a proper header.
 
 <img width="1032" alt="demo3" src="https://user-images.githubusercontent.com/50045763/105934841-ee67d680-601e-11eb-9dc3-4b1c06ed00d1.png">
 
@@ -46,7 +46,7 @@ Clearly, our data is invalid!
 
 <img width="1030" alt="demo5" src="https://user-images.githubusercontent.com/50045763/105935027-3dae0700-601f-11eb-8ad2-6a295272c054.png">
 
-Note that the `message` and `description` values provide a useful elaboration on the reason our CSV file is deemed invalid.
+Note that the `message` and `description` values provide a useful elaboration on why our CSV file is deemed invalid.
 
 <img width="1028" alt="demo6" src="https://user-images.githubusercontent.com/50045763/105934849-f0319a00-601e-11eb-9b57-8b562b1132ec.png">
 
