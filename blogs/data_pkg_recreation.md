@@ -77,7 +77,7 @@ dtypes: bool(1), float64(2), object(9)
 
 We can test whether our headers are the same as well:
 
-<img width="400" alt="Screen Shot 2021-02-19 at 12 44 19 PM" src="https://user-images.githubusercontent.com/50045763/108541755-d5b2af80-72b0-11eb-94ba-0dd65aeb8611.png">
+<img width="600" alt="Screen Shot 2021-02-19 at 12 44 19 PM" src="https://user-images.githubusercontent.com/50045763/108541755-d5b2af80-72b0-11eb-94ba-0dd65aeb8611.png">
 
 ## Data Package Creator
 
