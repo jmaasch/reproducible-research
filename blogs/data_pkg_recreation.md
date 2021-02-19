@@ -4,7 +4,7 @@ Is it easy to reproduce someone else's data package? Not always. But let's try t
 
 ## Import packages
 
-First, we will import the packages we need: `datapackage` for data package construction, `frictionless` for data file validation, and `pandas` for light dataframe manipulation.
+First, we will import the Python packages that we need: `datapackage` for data package construction, `frictionless` for data file validation, and `pandas` for light dataframe manipulation.
 
 ## Read data
 
@@ -85,9 +85,9 @@ We can then turn to the Frictionless [Data Package Creator](https://create.frict
 
 <img width="1111" alt="Screen Shot 2021-02-19 at 12 34 08 PM" src="https://user-images.githubusercontent.com/50045763/108541749-d3e8ec00-72b0-11eb-8e76-6db738d27492.png">
 
-Fortunately, it is valid! When running the CSV file for `df_719_adj`, we produce an identical data package. The question is: are the inferred schemas in these dara packages identical to the schema produced by Kate?
+Fortunately, it is valid! When running the CSV file for `df_719_adj`, we produce an identical data package. The question is: are the inferred schemas in these data packages identical to the schema produced by Kate?
 
-Fortunately, all three data packages identically contain the following schema:
+Fortunately, all three data packages contain the following schema:
 
 ```python
 {
