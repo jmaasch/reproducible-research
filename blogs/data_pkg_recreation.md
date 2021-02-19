@@ -83,7 +83,7 @@ We can test whether our headers are the same as well:
 
 We can then turn to the Frictionless [Data Package Creator](https://create.frictionlessdata.io). We can see that the CSV file that yielded `df_623` produces the following inferred data package:
 
-<img width="1111" alt="Screen Shot 2021-02-19 at 12 34 08 PM" src="https://user-images.githubusercontent.com/50045763/108541749-d3e8ec00-72b0-11eb-8e76-6db738d27492.png">
+<img width="800" alt="Screen Shot 2021-02-19 at 12 34 08 PM" src="https://user-images.githubusercontent.com/50045763/108541749-d3e8ec00-72b0-11eb-8e76-6db738d27492.png">
 
 Fortunately, it is valid! When running the CSV file for `df_719_adj`, we produce an identical data package. The question is: are the inferred schemas in these data packages identical to the schema produced by Kate?
 
