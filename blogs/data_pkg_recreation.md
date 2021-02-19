@@ -18,7 +18,7 @@ Next, we will import our data files and explore them. When validating our CSV fi
 
 However, when exploring our dataframes with `pandas`, we note that `df_623` and `df_719` do not have the same column headers nor the same shape. This makes analyses that draw comparisons between the two datasets less convenient. Therefore, we also have `df_719_adj`, which has adjusted `df_719` so that it adheres to the same format as `df_623`.
 
-## `df_623`
+### `df_623`
 
 ```python
  #   Column                Non-Null Count  Dtype  
@@ -38,7 +38,7 @@ However, when exploring our dataframes with `pandas`, we note that `df_623` and 
 dtypes: bool(1), float64(1), int64(1), object(9)
 ```
 
-## `df_719`
+### `df_719`
 
 ```python
  #   Column              Non-Null Count  Dtype  
@@ -55,7 +55,7 @@ dtypes: bool(1), float64(1), int64(1), object(9)
 dtypes: bool(1), float64(2), object(6)
 ```
 
-## `df_719_adj`
+### `df_719_adj`
 
 ```python
  #   Column                Non-Null Count  Dtype  
