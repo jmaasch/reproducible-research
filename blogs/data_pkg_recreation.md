@@ -19,7 +19,7 @@ Next, we will import our data files and explore them. When validating our CSV fi
 
 <img width="350" alt="Screen Shot 2021-02-19 at 12 47 34 PM" src="https://user-images.githubusercontent.com/50045763/108541764-d64b4600-72b0-11eb-8bf6-a36103464e50.png">
 
-However, when exploring our dataframes with `pandas`, we note that `df_623` and `df_719` do not have the same column headers nor the same shape. This makes analyses that draw comparisons between the two datasets less convenient. Therefore, we also have `df_719_adj`, which has adjusted `df_719` so that it adheres to the same format as `df_623`.
+However, when exploring our dataframes with `pandas`, we note that `df_623` and `df_719` do not have the same column headers nor the same shape. This makes analyses that draw comparisons between the two datasets less convenient. Therefore, Kate has created `df_719_adj`, which has adjusted `df_719` so that it adheres to the same format as `df_623`.
 
 ### `df_623`
 
