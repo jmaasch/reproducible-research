@@ -85,7 +85,7 @@ We can test whether our headers are the same as well:
 
 <img width="600" alt="headers" src="https://user-images.githubusercontent.com/50045763/109033052-40d6fa00-7694-11eb-9a97-a9c850b67fcc.png">
 
-We can then use `datapackage` to construct our inferred schema and test whether it is valid.
+We can then use `datapackage` to construct our inferred schemas and test whether they are valid.
 
 <img width="600" alt="miseq" src="https://user-images.githubusercontent.com/50045763/109020517-06676000-7688-11eb-8261-3309a66a19dc.png">
 
