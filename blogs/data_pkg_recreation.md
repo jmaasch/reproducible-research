@@ -2,7 +2,7 @@
 
 Is it easy to reproduce someone else's data package? Not always. But let's try to reproduce a data package created by Kate, another fellow. We will do so by using a combination of Python and the Frictionless [Data Package Creator](https://create.frictionlessdata.io).
 
-## Import packages
+## Getting started in Python
 
 First, we will import the Python packages that we need: `datapackage` for data package construction, `frictionless` for data file validation, and `pandas` for light dataframe manipulation.
 
