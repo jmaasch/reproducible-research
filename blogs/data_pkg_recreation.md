@@ -1,6 +1,8 @@
 # Reproducing a data package
 
-Is it easy to reproduce someone else's data package? Not always. But let's try to reproduce a data package created by Kate, another fellow. We will do so by using a combination of Python and the Frictionless [Data Package Creator](https://create.frictionlessdata.io). Kate has provided three CSV files and a JSON file describing the inferred schema that our recreated data packages should contain.
+Is it easy to reproduce someone else's data package? Sometimes, but not always. Tools that automate the process can standardize the process, making reproducibility simpler. However, accurately anticipating a tool's expected behavior is essential, especially when mixing technologies.
+
+Let's try to reproduce a data package created by Kate, another fellow. We will do so by using a combination of Python and the Frictionless [Data Package Creator](https://create.frictionlessdata.io).  Let's see if we experience any conflicts by mixing these tools. Kate has provided three CSV files and a JSON file describing the inferred schema that our recreated data packages should contain.
 
 ## Getting started in Python
 
