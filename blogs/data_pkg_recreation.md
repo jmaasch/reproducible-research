@@ -6,6 +6,9 @@ Is it easy to reproduce someone else's data package? Not always. But let's try t
 
 First, we will import the Python packages that we need: `datapackage` for data package construction, `frictionless` for data file validation, and `pandas` for light dataframe manipulation.
 
+<img width="300" alt="importations" src="https://user-images.githubusercontent.com/50045763/109025513-ca82c980-768c-11eb-9c61-f859c37f46ca.png">
+
+
 ## Read data
 
 Next, we will import our data files and explore them. When validating our CSV files with `frictionless`, we happily observe that all three are valid.
