@@ -83,7 +83,7 @@ dtypes: bool(1), float64(2), object(9)
 
 We can test whether our headers are the same as well:
 
-<img width="600" alt="Screen Shot 2021-02-19 at 12 44 19 PM" src="https://user-images.githubusercontent.com/50045763/108541755-d5b2af80-72b0-11eb-94ba-0dd65aeb8611.png">
+<img width="600" alt="headers" src="https://user-images.githubusercontent.com/50045763/109033052-40d6fa00-7694-11eb-9a97-a9c850b67fcc.png">
 
 We can then use `datapackage` to construct our inferred schema and test whether it is valid.
 
