@@ -24,7 +24,7 @@ Next, we will import our data files and explore them. When validating our CSV fi
 
 However, when exploring our dataframes with `pandas`, we note that `df_623` and `df_719` do not have the same column headers nor the same shape. This makes analyses that draw comparisons between the two datasets less convenient. Therefore, Kate has created `df_719_adj`, which has adjusted `df_719` so that it adheres to the same format as `df_623`.
 
-### `df_623`
+#### `df_623`
 
 ```python
  #   Column                Non-Null Count  Dtype  
@@ -44,7 +44,7 @@ However, when exploring our dataframes with `pandas`, we note that `df_623` and 
 dtypes: bool(1), float64(1), int64(1), object(9)
 ```
 
-### `df_719`
+#### `df_719`
 
 ```python
  #   Column              Non-Null Count  Dtype  
@@ -61,7 +61,7 @@ dtypes: bool(1), float64(1), int64(1), object(9)
 dtypes: bool(1), float64(2), object(6)
 ```
 
-### `df_719_adj`
+#### `df_719_adj`
 
 ```python
  #   Column                Non-Null Count  Dtype  
@@ -91,7 +91,7 @@ We can then use `datapackage` to construct our inferred schema and test whether 
 
 And we have run into our first problem! :) Note that the data package is deemed **invalid**. This is our first hint that something is off. If you look closely, several of the data types inferred by `datapackage` in Python are different from the data types in Kate's inferred schema below. For example, the `is.neg` column contains string values as inferred by Kate's data packaging process, while our process has inferred boolean values. **We have failed to reproduce the package faithfully!**
 
-### Kate's inferred schema
+#### Kate's inferred schema
 ```python
 {
         "fields": [
