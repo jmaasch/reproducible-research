@@ -1,6 +1,6 @@
 # Reproducing a data package
 
-Is it easy to reproduce someone else's data package? Not always. But let's try to reproduce a data package created by Kate, another fellow. We will do so by using a combination of Python and the Frictionless [Data Package Creator](https://create.frictionlessdata.io).
+Is it easy to reproduce someone else's data package? Not always. But let's try to reproduce a data package created by Kate, another fellow. We will do so by using a combination of Python and the Frictionless [Data Package Creator](https://create.frictionlessdata.io). Kate has provided three CSV files and a JSON file describing the inferred schema that our recreated data packages should contain.
 
 ## Getting started in Python
 
@@ -13,11 +13,12 @@ First, we will import the Python packages that we need: `datapackage` for data p
 
 Next, we will import our data files and explore them. When validating our CSV files with `frictionless`, we happily observe that all three are valid.
 
-<img width="350" alt="Screen Shot 2021-02-19 at 12 46 12 PM" src="https://user-images.githubusercontent.com/50045763/108541762-d64b4600-72b0-11eb-9936-97d72a494c33.png">
+<img width="350" alt="Screen Shot 2021-02-19 at 12 47 34 PM" src="https://user-images.githubusercontent.com/50045763/108541764-d64b4600-72b0-11eb-8bf6-a36103464e50.png">
 
 <img width="350" alt="Screen Shot 2021-02-19 at 12 47 20 PM" src="https://user-images.githubusercontent.com/50045763/108541763-d64b4600-72b0-11eb-8031-3013b1d7a8a6.png">
 
-<img width="350" alt="Screen Shot 2021-02-19 at 12 47 34 PM" src="https://user-images.githubusercontent.com/50045763/108541764-d64b4600-72b0-11eb-8bf6-a36103464e50.png">
+
+<img width="350" alt="Screen Shot 2021-02-19 at 12 46 12 PM" src="https://user-images.githubusercontent.com/50045763/108541762-d64b4600-72b0-11eb-9936-97d72a494c33.png">
 
 However, when exploring our dataframes with `pandas`, we note that `df_623` and `df_719` do not have the same column headers nor the same shape. This makes analyses that draw comparisons between the two datasets less convenient. Therefore, Kate has created `df_719_adj`, which has adjusted `df_719` so that it adheres to the same format as `df_623`.
 
