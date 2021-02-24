@@ -171,4 +171,4 @@ Fortunately, all three UI-inferred data packages contain the same schema that Ka
 
 ## Lessons learned
 
-If you are reproducing someone else's data package, or if you are creating many data packages that must conform to the same structure, be consistent with which technology you are using. Note that inferences made by the Data Package Creator UI and the Python package `datapackage` may differ (as of 24 February 2021).
+If you are reproducing someone else's data package, or if you are creating many data packages that must conform to the same structure, be consistent with which technology you are using. Note that inferences made by the Data Package Creator UI and the Python package `datapackage` may differ (as of 24 February 2021). Both tools are useful, but stick consistently with one or the other.
