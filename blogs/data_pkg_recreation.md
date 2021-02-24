@@ -79,16 +79,13 @@ We can test whether our headers are the same as well:
 
 <img width="600" alt="Screen Shot 2021-02-19 at 12 44 19 PM" src="https://user-images.githubusercontent.com/50045763/108541755-d5b2af80-72b0-11eb-94ba-0dd65aeb8611.png">
 
-## Data Package Creator
+We can then use `datapackage` to construct our inferred schema and test whether it is valid.
 
-We can then turn to the Frictionless [Data Package Creator](https://create.frictionlessdata.io). We can see that the CSV file that yielded `df_623` produces the following inferred data package:
+<img width="600" alt="miseq" src="https://user-images.githubusercontent.com/50045763/109020517-06676000-7688-11eb-8261-3309a66a19dc.png">
 
-<img width="800" alt="Screen Shot 2021-02-19 at 12 34 08 PM" src="https://user-images.githubusercontent.com/50045763/108541749-d3e8ec00-72b0-11eb-8e76-6db738d27492.png">
+And we have run into our first problem! :) Note that the data package is deemed **invalid**. This is our first hint that something is off. If you look closely, several of the data types inferred by `datapackage` in Python are different from the data types in Kate's inferred schema below. For example, the `is.neg` column contains string values as inferred by Kate's data packaging process, while our process has inferred boolean values. **We have failed to reproduce the package faithfully!**
 
-Fortunately, it is valid! When running the CSV file for `df_719_adj`, we produce an identical data package. The question is: are the inferred schemas in these data packages identical to the schema produced by Kate?
-
-Fortunately, all three data packages contain the following schema:
-
+### Kate's inferred schema
 ```python
 {
         "fields": [
@@ -156,4 +153,16 @@ Fortunately, all three data packages contain the following schema:
       }
 ```
 
-And we have successfully reproduced a data package! :)
+## Data Package Creator
+
+We can then turn to the Frictionless [Data Package Creator](https://create.frictionlessdata.io) to see if our results match Kate's. We can see that the CSV file that yielded `df_623` produces the following inferred data package:
+
+<img width="800" alt="Screen Shot 2021-02-19 at 12 34 08 PM" src="https://user-images.githubusercontent.com/50045763/108541749-d3e8ec00-72b0-11eb-8e76-6db738d27492.png">
+
+Fortunately, it is **valid**! When running the CSV file for `df_719_adj`, we produce an identical data package. The question is: are the inferred schemas in these data packages identical to the schema produced by Kate?
+
+Fortunately, all three UI-inferred data packages contain the same schema that Kate created. **And we have successfully reproduced a data package!** :)
+
+## Lessons learned
+
+If you are reproducing someone else's data package, or if you are creating many data packages that must conform to the same structure, be sure to be consistent with which technology you are using. Note that the inferences made by Frictionless [Data Package Creator](https://create.frictionlessdata.io) and `datapackage` in Python may differ (as of 24 February 2021).
