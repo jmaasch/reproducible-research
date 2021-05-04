@@ -4,7 +4,7 @@ It is hard to believe that my time as a Reproducible Research Fellow is over. I 
 
 The conversations that we have shared inspired me to include an analysis of open science practices within my field in a forthcoming publication. I would surely not have thought to do this analysis without the knowledge that I gained as a fellow. This program was also my first opportunity to contribute to an open source project, by workshopping docs and writing a Google Colab tutorial for the [`frictionless` Python framework](https://framework.frictionlessdata.io). To conclude my fellowship, I co-presented on [Frictionless Data tools](https://frictionlessdata.io) at [csv,conf](https://csvconf.com). 
 
-I thoroughly enjoyed this 9-month debut into the worlds of open science, open source, and open access.
+I thoroughly enjoyed this 9-month debut into the worlds of open data, open source, and open access.
 
 ## Looking forward
 
