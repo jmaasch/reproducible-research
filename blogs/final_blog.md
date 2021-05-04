@@ -2,7 +2,7 @@
 
 It is hard to believe that my time as a Reproducible Research Fellow is over. I am most grateful for this program giving me a dedicated space in which to learn, a community with which to engage, and language with which to arm myself. I have been exposed to issues in open science that I had never encountered before, and have had the priviledge of discussing these issues with people from across the world. I will miss the journal clubs the most!
 
-The conversations that we have shared inspired me to include an analysis of open science practices within my field in a forthcoming publication. I would surely not have thought to do this analysis without the knowledge that I gained as a fellow. This program was also my first opportunity to contribute to an open source project, by workshopping docs and writing a Google Colab tutorial for the [`frictionless` Python framework](https://framework.frictionlessdata.io). To conclude my fellowship, I co-presented on [Frictionless Data tools](https://frictionlessdata.io) at [csv,conf](https://csvconf.com). 
+The conversations that we have shared inspired me to include an analysis of open science practices within my field in a forthcoming publication. This analysis would not have been possible without the knowledge that I gained as a fellow. This program was also my first opportunity to contribute to an open source project, by workshopping docs and writing a Google Colab tutorial for the [`frictionless` Python framework](https://framework.frictionlessdata.io). To conclude my fellowship, I co-presented on [Frictionless Data tools](https://frictionlessdata.io) at [csv,conf](https://csvconf.com). 
 
 I thoroughly enjoyed this 9-month debut into the worlds of open data, open source, and open access.
 
