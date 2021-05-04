@@ -2,7 +2,7 @@
 
 It is hard to believe that my time as a Reproducible Research Fellow is over. I am most grateful for this program giving me a dedicated space in which to learn, a community with which to engage, and language with which to arm myself. I have been exposed to issues in open science that I had never encountered before, and have had the priviledge of discussing these issues with people from across the world. I will miss the journal clubs the most!
 
-The conversations that we have shared inspired me to include an analysis of open science practices within my field in a forthcoming publication. I would surely not have thought to do this analysis were it not for the knowledge that I gained as a fellow. This program was also my first opportunity to contribute to an open source project, by workshopping docs and writing a Google Colab tutorial for the `frictionless` Python framework. This fellowship has been a great debut into the worlds of open science, open source, and open acess.
+The conversations that we have shared inspired me to include an analysis of open science practices within my field in a forthcoming publication. I would surely not have thought to do this analysis were it not for the knowledge that I gained as a fellow. This program was also my first opportunity to contribute to an open source project, by workshopping docs and writing a Google Colab tutorial for the `frictionless` Python framework. This fellowship has been a great debut into the worlds of open science, open source, and open access.
 
 ## Looking forward
 
