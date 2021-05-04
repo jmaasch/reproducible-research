@@ -6,7 +6,7 @@ The conversations that we have shared inspired me to include an analysis of open
 
 I thoroughly enjoyed this 9-month debut into the worlds of open data, open source, and open access.
 
-<img width="300" alt="oa" src="https://user-images.githubusercontent.com/50045763/117061483-441fdf00-acf0-11eb-922e-6caea6e7560c.png">
+<img width="100" alt="oa" src="https://user-images.githubusercontent.com/50045763/117061483-441fdf00-acf0-11eb-922e-6caea6e7560c.png">
 
 ## Looking forward
 
